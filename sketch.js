@@ -84,7 +84,7 @@ function setup(){
   bar56= new Rect (1550, 950, 20, 60);
   bar57= new Rect (1770, 1000, 60, 20);
   bar58= new Rect (1810, 999, 20, 60);
-  bar59= new React (1900, 999, 60, 20);
+  bar59= new Rect (1900, 999, 60, 20);
   bar60= new Rect (1900, 1000, 20, 60);
 
   meteors= createSprite( windowWidth/2- 500, windowHeight/2 - 200, 30, 30);
